@@ -1,5 +1,8 @@
 # Terraform PR Commenter
 
+> This project was forked from <https://github.com/robburger/terraform-pr-commenter> project, originally created by [
+Rob Burger](https://github.com/robburger).
+
 Adds opinionated comments to PR's based on Terraform `fmt`, `init`, `plan` and `validate` outputs.
 
 ## Summary
@@ -230,7 +233,7 @@ In English: "Always run this step, but only on a pull request and only when the 
 
 ## Troubleshooting & Contributing
 
-Feel free to head over to the [Issues](https://github.com/robburger/terraform-pr-commenter/issues) tab to see if the issue you're having has already been reported. If not, [open a new one](https://github.com/robburger/terraform-pr-commenter/issues/new) and be sure to include as much relevant information as possible, including code-samples, and a description of what you expect to be happening.
+Feel free to head over to the [Issues](https://github.com/SoaB1/terraform-pr-commenter/issues) tab to see if the issue you're having has already been reported. If not, [open a new one](https://github.com/SoaB1/terraform-pr-commenter/issues/new) and be sure to include as much relevant information as possible, including code-samples, and a description of what you expect to be happening.
 
 ## License
 
